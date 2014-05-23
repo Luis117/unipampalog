@@ -1,0 +1,12 @@
+@font-face
+{
+font-family: font-nova;
+src: url(Geo-Regular.ttf);
+}
+.fontExterna{
+	font-family:font-nova;
+	font-size: 38px;
+	margin-top: 8px;
+	color: #393939;
+	/* text-shadow:0px 0px 0 rgb(93,149,198),1px 1px 0 rgb(83,139,188),2px 2px 0 rgb(73,129,178),3px 3px 0 rgb(63,119,168),4px 4px 0 rgb(52,108,157),5px 5px 0 rgb(42,98,147),6px 6px 0 rgb(32,88,137),7px 7px 0 rgb(22,78,127),8px 8px 0 rgb(12,68,117), 9px 9px 0 rgb(2,58,107),10px 10px 9px rgba(0,0,0,0.7),10px 10px 1px rgba(0,0,0,0.5),0px 0px 9px rgba(0,0,0,.2);}*/
+}
